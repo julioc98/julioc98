@@ -5,7 +5,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1> <hr>
 
-My name is JC. I work as a Developer at unico IDTech.
+My name is JC. I work as a Developer.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=julioc98&repo=julioc98&countColorcountColor)
 
